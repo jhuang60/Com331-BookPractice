@@ -22,7 +22,7 @@ puts ('Chapter 1:'.ljust(line_width/4) + 'Getting started'.ljust(line_width/2) +
 puts ('Chapter 2:'.ljust(line_width/4) + 'Numbers'.ljust(line_width/2) + 'Page '.ljust(line_width/8) + ' 9'.rjust(0))
 puts ('Chapter 3:'.ljust(line_width/4) + 'Letters'.ljust(line_width/2) + 'Page '.ljust(line_width/8) + '13'.rjust(0))
 #<------------------------------------------------------------------------
-
+=begin
 #.reverse
 puts '--------------> reverse'
 puts ''
@@ -131,3 +131,4 @@ puts (Math.cos(Math:: PI/3))
 puts (Math.tan(Math:: PI/4))
 puts (Math.log(Math:: E**2))
 puts ((1 + Math.sqrt(5))/2)
+=end

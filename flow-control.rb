@@ -76,6 +76,7 @@ while starty <= endy
   starty = starty + 1
 end
 
+=begin
 #Comparison methods
 puts ''
 puts '----------------------------> Comparison methods'
@@ -167,3 +168,4 @@ puts 'Hello, ' + name + '.'
 if name == 'Chris' || name == 'Katy'
   puts 'what a lovely name!'
 end
+=end

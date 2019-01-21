@@ -23,7 +23,7 @@ newnum = num + 1
 puts newnum.to_s + ' is bigger and better than ' + num.to_s
 
 
-
+=begin
 #Conversions (.to_s , .to_i , .to_f)
 var1 = 2
 var2 = '5'
@@ -55,3 +55,4 @@ puts 'Hello there, and write what\'s your name? '
 name = gets.chomp
 puts 'your name is ' + name + '? What a lovely name!'
 puts 'nice to meet you, ' + name + '. :)'
+=end

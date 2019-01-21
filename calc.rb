@@ -13,8 +13,9 @@ puts (((365 * 24) * 60) * 60) * 21
 # Author's age in seconds to years
 puts '--------------> Author\'s age in seconds to years'
 puts (((1160000000 / 60) /60 ) /24) / 365
+puts ''
 
-
+=begin
 # Practice
 
 puts 1+2
@@ -35,3 +36,4 @@ puts 9/2
 # More complex expressions
 puts 5 * ( 12 - 8 ) + -15
 puts 98 + (59872 / (13 * 8)) * -51
+=end
