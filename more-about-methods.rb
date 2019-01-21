@@ -1,4 +1,27 @@
-# Chapter 5 more about methods
+# Chapter 6 more about methods
+
+# -------------------------------------------------------------------> exercises
+#Angry boss
+puts ''
+puts '--------------> Angry boss'
+puts ''
+
+puts 'Tell something to your boss'
+comment = gets.chomp
+puts 'Boss: WHAT YOU MEAN ' + comment.upcase + '?!' + "YOU\'RE FIRED!"
+
+#Table of content
+puts ''
+puts '--------------> Table of content'
+puts ''
+
+line_width = 50
+puts ('Table of content'.center(line_width))
+puts ''
+puts ('Chapter 1:'.ljust(line_width/4) + 'Getting started'.ljust(line_width/2) + 'Page '.ljust(line_width/8) + ' 1'.rjust(0))
+puts ('Chapter 2:'.ljust(line_width/4) + 'Numbers'.ljust(line_width/2) + 'Page '.ljust(line_width/8) + ' 9'.rjust(0))
+puts ('Chapter 3:'.ljust(line_width/4) + 'Letters'.ljust(line_width/2) + 'Page '.ljust(line_width/8) + '13'.rjust(0))
+#<------------------------------------------------------------------------
 
 #.reverse
 puts '--------------> reverse'
@@ -51,28 +74,6 @@ puts (str.center(line_width))
 puts (str.rjust(line_width))
 puts (str.ljust(line_width/2) + str.rjust(line_width/2))
 
-# -------------------------------------------------------------------> exercises
-#Angry boss
-puts ''
-puts '--------------> Angry boss'
-puts ''
-
-puts 'Tell something to your boss'
-comment = gets.chomp
-puts 'Boss: WHAT YOU MEAN ' + comment.upcase + '?!' + "YOU\'RE FIRED!"
-
-#Table of content
-puts ''
-puts '--------------> Table of content'
-puts ''
-
-line_width = 50
-puts ('Table of content'.center(line_width))
-puts ''
-puts ('Chapter 1:'.ljust(line_width/4) + 'Getting started'.ljust(line_width/2) + 'Page '.ljust(line_width/8) + ' 1'.rjust(0))
-puts ('Chapter 2:'.ljust(line_width/4) + 'Numbers'.ljust(line_width/2) + 'Page '.ljust(line_width/8) + ' 9'.rjust(0))
-puts ('Chapter 3:'.ljust(line_width/4) + 'Letters'.ljust(line_width/2) + 'Page '.ljust(line_width/8) + '13'.rjust(0))
-#<------------------------------------------------------------------------
 # More Arithmetic
 puts ''
 puts '--------------> More Arithmetic'
