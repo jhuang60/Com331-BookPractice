@@ -18,5 +18,5 @@ week2:
   4. :star: Chapter 11: reading-writing-saving-loading.rb
   5. :star: Chapter 12: new-classes-of-objects.rb
   6. :star: Chapter 13: creating-changing-classes.rb
-  7. Chapter 14:
+  7. :star: Chapter 14: blocks-and-procs.rn
   8. Chapter 15:
