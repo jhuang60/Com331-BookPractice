@@ -11,10 +11,10 @@ Week1:
   5. :star: Chapter 6: more-about-methods.rb
   6. :star: Chapter 7: flow-control.rb
 
-wee2:
-  1. Chapter 8:
-  2. Chapter 9:
-  3. Chapter 10:
+week2:
+  1. :star: Chapter 8: arrays-and-iterators.rb
+  2. :star: Chapter 9: writing-your-own-methods.rb
+  3. :star: Chapter 10: nothing_new_to_learn.rb
   4. Chapter 11:
   5. Chapter 12:
   6. Chapter 13:
