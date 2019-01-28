@@ -15,8 +15,8 @@ week2:
   1. :star: Chapter 8: arrays-and-iterators.rb
   2. :star: Chapter 9: writing-your-own-methods.rb
   3. :star: Chapter 10: nothing_new_to_learn.rb
-  4. Chapter 11:
-  5. Chapter 12:
-  6. Chapter 13:
+  4. :star: Chapter 11: reading-writing-saving-loading.rb
+  5. :star: Chapter 12: new-classes-of-objects.rb
+  6. Chapter 13: creating-changing-classes.rb
   7. Chapter 14:
   8. Chapter 15:
